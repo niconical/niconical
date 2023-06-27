@@ -18,4 +18,4 @@ In 2023, I began to get involved in the open-source communities through particip
 
 ![niconical's GitHub stats](https://github-readme-stats.vercel.app/api?username=niconical&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niconical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niconical&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
