@@ -17,6 +17,6 @@ In 2023, I began to get involved in the open-source communities through particip
 - 🤗 Keep Coding!
 
 ## Statistics
-https://github-stats-alpha.vercel.app/api?username=niconical
+![status](https://github-stats-alpha.vercel.app/api?username=niconical)
 ![Stats](https://github-readme-stats.vercel.app/api?username=niconical)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=niconical&hide=ipynb,html&layout=compact)
