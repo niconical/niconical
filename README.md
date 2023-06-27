@@ -16,7 +16,4 @@ In 2023, I began to get involved in the open-source communities through particip
 - 🌱 I’m currently learning 🦀 Rust and ☕ Java
 - 🤗 Keep Coding!
 
-## Statistics
-![status](https://github-stats-alpha.vercel.app/api?username=niconical)
-![Stats](https://github-readme-stats.vercel.app/api?username=niconical)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=niconical&hide=ipynb,html&layout=compact)
+![Stats](https://github-stats-alpha.vercel.app/api?username=niconical)
